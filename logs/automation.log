@@ -1,0 +1,544 @@
+18:57:17.808 [main] INFO  this.getClass() - Launched Chrome Browser
+18:57:17.829 [main] INFO  this.getClass() -  Starting TC_002_Login 
+18:57:18.531 [main] INFO  this.getClass() - Home Page Displayed 
+18:57:18.936 [main] INFO  this.getClass() - Clicked on My Account 
+18:57:19.310 [main] INFO  this.getClass() - Clicked on Login 
+18:57:19.404 [main] INFO  this.getClass() - Provided Email 
+18:57:19.477 [main] INFO  this.getClass() - Provided Password 
+18:57:20.213 [main] INFO  this.getClass() - Clicked on Login
+18:57:20.256 [main] INFO  this.getClass() - Login Success 
+18:57:20.258 [main] INFO  this.getClass() -  Finished TC_002_Login 
+18:57:21.770 [main] INFO  this.getClass() - Launched Chrome Browser
+18:57:22.565 [main] INFO  this.getClass() -  Starting TC_003_LoginDDT 
+18:57:23.331 [main] INFO  this.getClass() - Home Page Displayed 
+18:57:23.709 [main] INFO  this.getClass() - Clicked on My Account 
+18:57:24.079 [main] INFO  this.getClass() - Clicked on Login 
+18:57:24.166 [main] INFO  this.getClass() - Provided Email 
+18:57:24.230 [main] INFO  this.getClass() - Provided Password 
+18:57:25.010 [main] INFO  this.getClass() - Clicked on Login
+18:57:25.050 [main] INFO  this.getClass() - Login Success 
+18:57:25.632 [main] INFO  this.getClass() -  Finished TC_003_LoginDDT 
+18:57:25.635 [main] INFO  this.getClass() -  Starting TC_003_LoginDDT 
+18:57:26.000 [main] INFO  this.getClass() - Home Page Displayed 
+18:57:26.049 [main] INFO  this.getClass() - Clicked on My Account 
+18:57:26.380 [main] INFO  this.getClass() - Clicked on Login 
+18:57:26.452 [main] INFO  this.getClass() - Provided Email 
+18:57:26.497 [main] INFO  this.getClass() - Provided Password 
+18:57:26.995 [main] INFO  this.getClass() - Clicked on Login
+18:57:37.081 [main] ERROR this.getClass() - Login Failed 
+18:57:37.081 [main] INFO  this.getClass() -  Finished TC_003_LoginDDT 
+18:57:37.085 [main] INFO  this.getClass() -  Starting TC_003_LoginDDT 
+18:57:37.464 [main] INFO  this.getClass() - Home Page Displayed 
+18:57:37.507 [main] INFO  this.getClass() - Clicked on My Account 
+18:57:37.828 [main] INFO  this.getClass() - Clicked on Login 
+18:57:37.889 [main] INFO  this.getClass() - Provided Email 
+18:57:37.935 [main] INFO  this.getClass() - Provided Password 
+18:57:38.438 [main] INFO  this.getClass() - Clicked on Login
+18:57:48.486 [main] ERROR this.getClass() - Login Failed 
+18:57:48.487 [main] INFO  this.getClass() -  Finished TC_003_LoginDDT 
+18:57:48.493 [main] INFO  this.getClass() -  Starting TC_003_LoginDDT 
+18:57:48.865 [main] INFO  this.getClass() - Home Page Displayed 
+18:57:48.910 [main] INFO  this.getClass() - Clicked on My Account 
+18:57:49.238 [main] INFO  this.getClass() - Clicked on Login 
+18:57:49.296 [main] INFO  this.getClass() - Provided Email 
+18:57:49.339 [main] INFO  this.getClass() - Provided Password 
+18:57:49.849 [main] INFO  this.getClass() - Clicked on Login
+18:57:59.887 [main] ERROR this.getClass() - Login Failed 
+18:57:59.887 [main] INFO  this.getClass() -  Finished TC_003_LoginDDT 
+10:34:08.886 [main] INFO  this.getClass() - Launched Chrome Browser
+10:34:08.910 [main] INFO  this.getClass() -  Starting TC_002_Login 
+10:34:09.749 [main] INFO  this.getClass() - Home Page Displayed 
+10:34:10.151 [main] INFO  this.getClass() - Clicked on My Account 
+10:34:10.570 [main] INFO  this.getClass() - Clicked on Login 
+10:34:10.668 [main] INFO  this.getClass() - Provided Email 
+10:34:10.728 [main] INFO  this.getClass() - Provided Password 
+10:34:11.453 [main] INFO  this.getClass() - Clicked on Login
+10:34:11.494 [main] INFO  this.getClass() - Login Success 
+10:34:11.497 [main] INFO  this.getClass() -  Finished TC_002_Login 
+10:39:04.192 [main] INFO  this.getClass() - Launched Chrome Browser
+10:39:04.216 [main] INFO  this.getClass() -  Starting TC_002_Login 
+10:39:04.995 [main] INFO  this.getClass() - Home Page Displayed 
+10:39:05.375 [main] INFO  this.getClass() - Clicked on My Account 
+10:39:05.739 [main] INFO  this.getClass() - Clicked on Login 
+10:39:05.828 [main] INFO  this.getClass() - Provided Email 
+10:39:05.900 [main] INFO  this.getClass() - Provided Password 
+10:39:06.764 [main] INFO  this.getClass() - Clicked on Login
+10:39:06.805 [main] INFO  this.getClass() - Login Success 
+10:39:06.807 [main] INFO  this.getClass() -  Finished TC_002_Login 
+14:43:56.171 [main] INFO  this.getClass() - Launched Chrome Browser
+14:43:56.198 [main] INFO  this.getClass() - Starting TC_001AccountRegistration
+14:43:56.199 [main] INFO  this.getClass() - Opening app URL...
+14:43:57.178 [main] INFO  this.getClass() - Clicking in MyAccount link...
+14:43:57.382 [main] INFO  this.getClass() - Clicking on Register link...
+14:43:57.999 [main] INFO  this.getClass() - Providing user details...
+14:43:58.068 [main] INFO  this.getClass() - Provided first name
+14:43:58.128 [main] INFO  this.getClass() - Provided last name
+14:43:58.198 [main] INFO  this.getClass() - Provided email: YUWwH@gmail.com
+14:43:58.255 [main] INFO  this.getClass() - Provided telephone number
+14:43:58.309 [main] INFO  this.getClass() - Provided password
+14:43:58.360 [main] INFO  this.getClass() - Provided confirmed password
+14:43:58.405 [main] INFO  this.getClass() - Set privacy policy
+14:43:59.160 [main] INFO  this.getClass() - Clicked on continue
+14:43:59.192 [main] ERROR this.getClass() - Account Registration Failed
+14:44:00.910 [main] INFO  this.getClass() - Launched Chrome Browser
+14:44:00.915 [main] INFO  this.getClass() -  Starting TC_002_Login 
+14:44:01.853 [main] INFO  this.getClass() - Home Page Displayed 
+14:44:02.214 [main] INFO  this.getClass() - Clicked on My Account 
+14:44:02.617 [main] INFO  this.getClass() - Clicked on Login 
+14:44:02.709 [main] INFO  this.getClass() - Provided Email 
+14:44:02.777 [main] INFO  this.getClass() - Provided Password 
+14:44:03.511 [main] INFO  this.getClass() - Clicked on Login
+14:44:03.552 [main] INFO  this.getClass() - Login Success 
+14:44:03.552 [main] INFO  this.getClass() -  Finished TC_002_Login 
+14:47:53.734 [main] INFO  this.getClass() - Launched Chrome Browser
+14:47:53.757 [main] INFO  this.getClass() - Starting TC_001AccountRegistration
+14:47:53.757 [main] INFO  this.getClass() - Opening app URL...
+14:47:54.597 [main] INFO  this.getClass() - Clicking in MyAccount link...
+14:47:54.853 [main] INFO  this.getClass() - Clicking on Register link...
+14:47:55.410 [main] INFO  this.getClass() - Providing user details...
+14:47:55.479 [main] INFO  this.getClass() - Provided first name
+14:47:55.540 [main] INFO  this.getClass() - Provided last name
+14:47:55.608 [main] INFO  this.getClass() - Provided email: WWkcV@gmail.com
+14:47:55.663 [main] INFO  this.getClass() - Provided telephone number
+14:47:55.716 [main] INFO  this.getClass() - Provided password
+14:47:55.766 [main] INFO  this.getClass() - Provided confirmed password
+14:47:55.812 [main] INFO  this.getClass() - Set privacy policy
+14:47:56.561 [main] INFO  this.getClass() - Clicked on continue
+14:47:56.593 [main] INFO  this.getClass() - Account Registration success
+14:47:56.595 [main] INFO  this.getClass() - Finished TC_001_AccountRegistration
+18:14:45.371 [main] INFO  this.getClass() - Launched Chrome Browser
+18:14:45.399 [main] INFO  this.getClass() - Starting TC_001AccountRegistration
+18:14:45.399 [main] INFO  this.getClass() - Opening app URL...
+18:14:46.300 [main] INFO  this.getClass() - Clicking in MyAccount link...
+18:14:46.550 [main] INFO  this.getClass() - Clicking on Register link...
+18:14:47.105 [main] INFO  this.getClass() - Providing user details...
+18:14:47.172 [main] INFO  this.getClass() - Provided first name
+18:14:47.232 [main] INFO  this.getClass() - Provided last name
+18:14:47.294 [main] INFO  this.getClass() - Provided email: Oqgcy@gmail.com
+18:14:47.348 [main] INFO  this.getClass() - Provided telephone number
+18:14:47.398 [main] INFO  this.getClass() - Provided password
+18:14:47.461 [main] INFO  this.getClass() - Provided confirmed password
+18:14:47.501 [main] INFO  this.getClass() - Set privacy policy
+18:14:48.424 [main] INFO  this.getClass() - Clicked on continue
+18:14:48.452 [main] INFO  this.getClass() - Account Registration success
+18:14:48.454 [main] INFO  this.getClass() - Finished TC_001_AccountRegistration
+18:14:49.971 [main] INFO  this.getClass() - Launched Chrome Browser
+18:14:49.976 [main] INFO  this.getClass() -  Starting TC_002_Login 
+18:14:50.688 [main] INFO  this.getClass() - Home Page Displayed 
+18:14:51.125 [main] INFO  this.getClass() - Clicked on My Account 
+18:14:51.492 [main] INFO  this.getClass() - Clicked on Login 
+18:14:51.581 [main] INFO  this.getClass() - Provided Email 
+18:14:51.650 [main] INFO  this.getClass() - Provided Password 
+18:14:52.375 [main] INFO  this.getClass() - Clicked on Login
+18:14:52.416 [main] INFO  this.getClass() - Login Success 
+18:14:52.416 [main] INFO  this.getClass() -  Finished TC_002_Login 
+18:14:53.932 [main] INFO  this.getClass() - Launched Chrome Browser
+18:14:53.936 [main] INFO  this.getClass() - Starting TC_004_Search
+18:14:54.548 [main] INFO  this.getClass() - Home Page Displayed 
+18:14:54.737 [main] INFO  this.getClass() - Seaching  product
+18:14:55.322 [main] INFO  this.getClass() - Clicked search button
+18:14:55.346 [main] ERROR this.getClass() - Product not displayed
+18:19:08.085 [main] INFO  this.getClass() - Launched Chrome Browser
+18:19:08.110 [main] INFO  this.getClass() - Starting TC_001AccountRegistration
+18:19:08.110 [main] INFO  this.getClass() - Opening app URL...
+18:19:09.175 [main] INFO  this.getClass() - Clicking in MyAccount link...
+18:19:09.361 [main] INFO  this.getClass() - Clicking on Register link...
+18:19:09.903 [main] INFO  this.getClass() - Providing user details...
+18:19:09.968 [main] INFO  this.getClass() - Provided first name
+18:19:10.028 [main] INFO  this.getClass() - Provided last name
+18:19:10.093 [main] INFO  this.getClass() - Provided email: fZjZS@gmail.com
+18:19:10.144 [main] INFO  this.getClass() - Provided telephone number
+18:19:10.197 [main] INFO  this.getClass() - Provided password
+18:19:10.246 [main] INFO  this.getClass() - Provided confirmed password
+18:19:10.289 [main] INFO  this.getClass() - Set privacy policy
+18:19:11.060 [main] INFO  this.getClass() - Clicked on continue
+18:19:11.093 [main] INFO  this.getClass() - Account Registration success
+18:19:11.095 [main] INFO  this.getClass() - Finished TC_001_AccountRegistration
+18:19:12.610 [main] INFO  this.getClass() - Launched Chrome Browser
+18:19:12.615 [main] INFO  this.getClass() -  Starting TC_002_Login 
+18:19:13.217 [main] INFO  this.getClass() - Home Page Displayed 
+18:19:13.723 [main] INFO  this.getClass() - Clicked on My Account 
+18:19:14.102 [main] INFO  this.getClass() - Clicked on Login 
+18:19:14.199 [main] INFO  this.getClass() - Provided Email 
+18:19:14.277 [main] INFO  this.getClass() - Provided Password 
+18:19:15.007 [main] INFO  this.getClass() - Clicked on Login
+18:19:15.046 [main] INFO  this.getClass() - Login Success 
+18:19:15.046 [main] INFO  this.getClass() -  Finished TC_002_Login 
+18:19:16.518 [main] INFO  this.getClass() - Launched Chrome Browser
+18:19:16.523 [main] INFO  this.getClass() - Starting TC_004_Search
+18:19:17.136 [main] INFO  this.getClass() - Home Page Displayed 
+18:19:17.334 [main] INFO  this.getClass() - Seaching  product
+18:19:17.964 [main] INFO  this.getClass() - Clicked search button
+18:19:17.992 [main] INFO  this.getClass() - Product displayed
+18:19:17.992 [main] INFO  this.getClass() - Finished TC_004_Search
+18:24:47.236 [main] INFO  this.getClass() - Launched Chrome Browser
+18:24:47.259 [main] INFO  this.getClass() - Starting TC_004_Search
+18:24:47.929 [main] INFO  this.getClass() - Home Page Displayed 
+18:24:48.140 [main] INFO  this.getClass() - Seaching  product
+18:24:48.741 [main] INFO  this.getClass() - Clicked search button
+18:24:48.788 [main] INFO  this.getClass() - Product displayed
+18:24:48.789 [main] INFO  this.getClass() - Finished TC_004_Search
+14:07:16.598 [main] INFO  this.getClass() - Launched Chrome Browser
+14:07:16.620 [main] INFO  this.getClass() - Starting TC_005_ForgotPassword
+14:07:17.457 [main] INFO  this.getClass() - Homepage is displayed
+14:07:17.830 [main] INFO  this.getClass() - Clicked on My Account
+14:07:18.197 [main] INFO  this.getClass() - Clicked on Login
+14:07:18.294 [main] INFO  this.getClass() - Provided email
+14:07:18.690 [main] INFO  this.getClass() - Provided confirmation email
+14:07:19.852 [main] INFO  this.getClass() - Finished TC_005_ForgotPassword
+14:05:09.692 [main] INFO  this.getClass() - Launched Chrome Browser
+14:05:09.725 [main] INFO  this.getClass() - Starting TC_006_AddCart
+14:05:10.343 [main] INFO  this.getClass() - Home Page Displayed 
+14:05:12.547 [main] INFO  this.getClass() - Enter desired product
+14:05:16.197 [main] INFO  this.getClass() - Product displayed on HomePage
+14:05:16.248 [main] INFO  this.getClass() - Product added to cart
+14:05:21.315 [main] INFO  this.getClass() - Product added to viewcart
+14:05:24.697 [main] INFO  this.getClass() - Product added to view
+14:05:34.796 [main] ERROR this.getClass() - Add cart  Page Failed 
+14:11:17.840 [main] INFO  this.getClass() - Launched Chrome Browser
+14:11:17.866 [main] INFO  this.getClass() - Starting TC_006_AddCart
+14:11:18.634 [main] INFO  this.getClass() - Home Page Displayed 
+14:11:20.834 [main] INFO  this.getClass() - Enter desired product
+14:11:24.450 [main] INFO  this.getClass() - Product displayed on HomePage
+14:11:24.497 [main] INFO  this.getClass() - Product added to cart
+14:11:29.575 [main] INFO  this.getClass() - Product added to viewcart
+14:11:32.956 [main] INFO  this.getClass() - Product added to view
+14:11:43.005 [main] ERROR this.getClass() - Add cart Page Failed 
+14:16:13.935 [main] INFO  this.getClass() - Launched Chrome Browser
+14:16:13.960 [main] INFO  this.getClass() - Starting TC_006_AddCart
+14:16:14.605 [main] INFO  this.getClass() - Home Page Displayed 
+14:16:16.824 [main] INFO  this.getClass() - Enter desired product
+14:16:20.465 [main] INFO  this.getClass() - Product displayed on HomePage
+14:16:20.511 [main] INFO  this.getClass() - Product added to cart
+14:16:25.577 [main] INFO  this.getClass() - Product added to viewcart
+14:16:29.004 [main] INFO  this.getClass() - Product added to view
+14:16:39.089 [main] ERROR this.getClass() - Add cart Page Failed 
+14:25:47.780 [main] INFO  this.getClass() - Launched Chrome Browser
+14:25:47.804 [main] INFO  this.getClass() - Starting TC_006_AddCart
+14:25:48.467 [main] INFO  this.getClass() - Home Page Displayed 
+14:25:50.676 [main] INFO  this.getClass() - Enter desired product
+14:25:54.262 [main] INFO  this.getClass() - Product displayed on HomePage
+14:25:54.303 [main] INFO  this.getClass() - Product added to cart
+14:25:59.377 [main] INFO  this.getClass() - Product added to viewcart
+14:26:02.791 [main] INFO  this.getClass() - Product added to view
+14:26:12.873 [main] ERROR this.getClass() - Add cart Page Failed 
+10:23:29.417 [main] INFO  this.getClass() - Launched Chrome Browser
+10:23:29.439 [main] INFO  this.getClass() - Starting TC_006_AddCart
+10:23:30.124 [main] INFO  this.getClass() - Home Page Displayed 
+10:23:32.327 [main] INFO  this.getClass() - Enter desired product
+10:23:36.049 [main] INFO  this.getClass() - Product displayed on HomePage
+10:23:36.093 [main] INFO  this.getClass() - Product added to cart
+10:23:41.194 [main] INFO  this.getClass() - Product added to viewcart
+10:23:44.618 [main] INFO  this.getClass() - Product added to view
+10:23:54.706 [main] ERROR this.getClass() - Add cart Page Failed 
+21:14:04.029 [main] INFO  this.getClass() - Launched Chrome Browser
+21:14:04.052 [main] INFO  this.getClass() - Starting TC_006_AddCart
+21:14:04.770 [main] INFO  this.getClass() - Home Page Displayed 
+21:14:06.981 [main] INFO  this.getClass() - Enter desired product
+21:14:10.531 [main] INFO  this.getClass() - Product displayed on HomePage
+21:14:10.578 [main] INFO  this.getClass() - Product added to cart
+21:14:15.648 [main] INFO  this.getClass() - Product added to viewcart
+21:14:19.070 [main] INFO  this.getClass() - Product added to view
+21:14:29.156 [main] ERROR this.getClass() - Add cart Page Failed 
+21:32:59.703 [main] INFO  this.getClass() - Launched Chrome Browser
+21:32:59.727 [main] INFO  this.getClass() - Starting TC_006_AddCart
+21:33:00.743 [main] INFO  this.getClass() - Home Page Displayed 
+21:33:02.969 [main] INFO  this.getClass() - Enter desired product
+21:33:06.628 [main] INFO  this.getClass() - Product displayed on HomePage
+21:33:06.672 [main] INFO  this.getClass() - Product added to cart
+21:33:08.732 [main] ERROR this.getClass() - Add cart Page Failed 
+21:39:15.461 [main] INFO  this.getClass() - Launched Chrome Browser
+21:39:15.487 [main] INFO  this.getClass() - Starting TC_006_AddCart
+21:39:16.142 [main] INFO  this.getClass() - Home Page Displayed 
+21:39:18.350 [main] INFO  this.getClass() - Enter desired product
+21:39:21.979 [main] INFO  this.getClass() - Product displayed on HomePage
+21:39:22.026 [main] INFO  this.getClass() - Product added to cart
+21:39:24.070 [main] ERROR this.getClass() - Add cart Page Failed 
+21:44:23.603 [main] INFO  this.getClass() - Launched Chrome Browser
+21:44:23.626 [main] INFO  this.getClass() - Starting TC_006_AddCart
+21:44:24.304 [main] INFO  this.getClass() - Home Page Displayed 
+21:44:26.522 [main] INFO  this.getClass() - Enter desired product
+21:44:30.086 [main] INFO  this.getClass() - Product displayed on HomePage
+21:44:30.143 [main] INFO  this.getClass() - Product added to cart
+21:44:32.174 [main] ERROR this.getClass() - Add cart Page Failed 
+21:49:26.269 [main] INFO  this.getClass() - Launched Chrome Browser
+21:49:26.294 [main] INFO  this.getClass() - Starting TC_006_AddCart
+21:49:27.159 [main] INFO  this.getClass() - Home Page Displayed 
+21:49:29.365 [main] INFO  this.getClass() - Enter desired product
+21:49:32.982 [main] INFO  this.getClass() - Product displayed on HomePage
+21:49:33.026 [main] INFO  this.getClass() - Product added to cart
+21:49:35.097 [main] ERROR this.getClass() - Add cart Page Failed 
+21:56:55.626 [main] INFO  this.getClass() - Launched Chrome Browser
+21:56:55.650 [main] INFO  this.getClass() - Starting TC_006_AddCart
+21:56:56.295 [main] INFO  this.getClass() - Home Page Displayed 
+21:56:58.506 [main] INFO  this.getClass() - Enter desired product
+21:57:02.045 [main] INFO  this.getClass() - Product displayed on HomePage
+21:57:02.087 [main] INFO  this.getClass() - Product added to cart
+21:57:04.116 [main] ERROR this.getClass() - Add cart Page Failed 
+22:08:26.259 [main] INFO  this.getClass() - Launched Chrome Browser
+22:08:26.283 [main] INFO  this.getClass() - Starting TC_006_AddCart
+22:08:27.051 [main] INFO  this.getClass() - Home Page Displayed 
+22:08:29.246 [main] INFO  this.getClass() - Enter desired product
+22:08:32.868 [main] INFO  this.getClass() - Product displayed on HomePage
+22:08:32.915 [main] INFO  this.getClass() - Product added to cart
+22:08:34.962 [main] INFO  this.getClass() - Success: You have added iMac to your shopping cart!
+×
+22:08:34.962 [main] ERROR this.getClass() - Add cart Page Failed 
+22:11:53.437 [main] INFO  this.getClass() - Launched Chrome Browser
+22:11:53.461 [main] INFO  this.getClass() - Starting TC_006_AddCart
+22:11:54.142 [main] INFO  this.getClass() - Home Page Displayed 
+22:11:56.343 [main] INFO  this.getClass() - Enter desired product
+22:11:59.985 [main] INFO  this.getClass() - Product displayed on HomePage
+22:12:00.035 [main] INFO  this.getClass() - Product added to cart
+22:12:02.072 [main] INFO  this.getClass() - Success: You have added iMac to your shopping cart!
+×
+22:12:02.072 [main] INFO  this.getClass() - Add cart is successful
+22:12:05.116 [main] INFO  this.getClass() - Product added to view
+22:12:08.506 [main] INFO  this.getClass() - Product added to viewcart
+22:12:08.507 [main] INFO  this.getClass() - Finished TC_006_AddCart
+16:43:19.192 [main] INFO  this.getClass() - Launched Chrome Browser
+16:43:19.218 [main] INFO  this.getClass() - Starting TC_007_Checkout
+16:43:19.960 [main] INFO  this.getClass() - Home Page Displayed
+16:43:20.157 [main] INFO  this.getClass() - Searched iMac
+16:43:20.754 [main] INFO  this.getClass() - Clicked on search button
+16:43:20.803 [main] INFO  this.getClass() - Product added to cart
+16:43:21.201 [main] INFO  this.getClass() - Success: You have added iMac to your shopping cart!
+×
+16:43:21.202 [main] INFO  this.getClass() - Add cart is successful
+16:43:21.245 [main] INFO  this.getClass() - displayed cart
+16:43:21.291 [main] INFO  this.getClass() - Shopping cart details displayed
+16:43:31.485 [main] FATAL this.getClass() - Checkout failed
+16:51:01.207 [main] INFO  this.getClass() - Launched Chrome Browser
+16:51:01.230 [main] INFO  this.getClass() - Starting TC_007_Checkout
+16:51:01.910 [main] INFO  this.getClass() - Home Page Displayed
+16:51:02.107 [main] INFO  this.getClass() - Searched iMac
+16:51:04.715 [main] INFO  this.getClass() - Clicked on search button
+16:51:06.770 [main] INFO  this.getClass() - Product added to cart
+16:51:08.804 [main] INFO  this.getClass() - Success: You have added iMac to your shopping cart!
+×
+16:51:08.805 [main] INFO  this.getClass() - Add cart is successful
+16:51:10.879 [main] INFO  this.getClass() - displayed cart
+16:51:13.272 [main] INFO  this.getClass() - Shopping cart details displayed
+16:51:23.366 [main] FATAL this.getClass() - Checkout failed
+17:03:17.962 [main] INFO  this.getClass() - Launched Chrome Browser
+17:03:17.984 [main] INFO  this.getClass() - Starting TC_007_Checkout
+17:03:18.904 [main] INFO  this.getClass() - Home Page Displayed
+17:03:19.115 [main] INFO  this.getClass() - Searched iMac
+17:03:21.759 [main] INFO  this.getClass() - Clicked on search button
+17:03:23.810 [main] INFO  this.getClass() - Product added to cart
+17:03:25.848 [main] INFO  this.getClass() - Success: You have added iMac to your shopping cart!
+×
+17:03:25.849 [main] INFO  this.getClass() - Add cart is successful
+17:03:27.922 [main] INFO  this.getClass() - displayed cart
+17:03:30.563 [main] INFO  this.getClass() - clicked on checkout button
+17:03:30.647 [main] INFO  this.getClass() - Checkout Failed
+17:09:01.257 [main] INFO  this.getClass() - Launched Chrome Browser
+17:09:01.280 [main] INFO  this.getClass() - Starting TC_007_Checkout
+17:09:06.573 [main] INFO  this.getClass() - Home Page Displayed
+17:09:06.776 [main] INFO  this.getClass() - Searched iMac
+17:09:10.427 [main] INFO  this.getClass() - Clicked on search button
+17:09:12.481 [main] INFO  this.getClass() - Product added to cart
+17:09:14.529 [main] INFO  this.getClass() - Success: You have added iMac to your shopping cart!
+×
+17:09:14.529 [main] INFO  this.getClass() - Add cart is successful
+17:09:16.598 [main] INFO  this.getClass() - displayed cart
+17:09:19.177 [main] INFO  this.getClass() - clicked on checkout button
+17:09:19.243 [main] ERROR this.getClass() - Checkout Success
+17:09:19.244 [main] INFO  this.getClass() - Finished TC_007_Checkout
+11:00:36.398 [main] INFO  this.getClass() - Launched Chrome Browser
+11:00:36.424 [main] INFO  this.getClass() - Starting TC_008_ProductCompare
+11:00:37.430 [main] INFO  this.getClass() - Home Page Displayed 
+11:00:39.651 [main] INFO  this.getClass() - Product Entered in searchbox
+11:00:42.146 [main] INFO  this.getClass() - Clicked on search button
+11:00:44.210 [main] INFO  this.getClass() - Clicked on desired product
+11:00:44.240 [main] INFO  this.getClass() - Success: You have added MacBook to your product comparison!
+×
+11:00:44.240 [main] INFO  this.getClass() - Confirmation msg1 is successful
+11:00:47.305 [main] INFO  this.getClass() - Product2 clicked
+11:00:47.362 [main] INFO  this.getClass() - Success: You have added MacBook Air to your product comparison!
+×
+11:00:49.365 [main] ERROR this.getClass() - No confirmation msg2
+11:07:19.117 [main] INFO  this.getClass() - Launched Chrome Browser
+11:07:19.140 [main] INFO  this.getClass() - Starting TC_008_ProductCompare
+11:07:19.908 [main] INFO  this.getClass() - Home Page Displayed 
+11:07:22.117 [main] INFO  this.getClass() - Product Entered in searchbox
+11:07:24.521 [main] INFO  this.getClass() - Clicked on search button
+11:07:26.584 [main] INFO  this.getClass() - Clicked on desired product
+11:07:26.646 [main] INFO  this.getClass() - Success: You have added MacBook to your product comparison!
+×
+11:07:26.646 [main] INFO  this.getClass() - Confirmation msg1 is successful
+11:07:29.692 [main] INFO  this.getClass() - Product2 clicked
+11:07:29.716 [main] INFO  this.getClass() - Success: You have added MacBook Air to your product comparison!
+×
+11:07:31.729 [main] ERROR this.getClass() - No confirmation msg2
+11:13:28.204 [main] INFO  this.getClass() - Launched Chrome Browser
+11:13:28.227 [main] INFO  this.getClass() - Starting TC_008_ProductCompare
+11:13:28.959 [main] INFO  this.getClass() - Home Page Displayed 
+11:13:31.159 [main] INFO  this.getClass() - Product Entered in searchbox
+11:13:33.670 [main] INFO  this.getClass() - Clicked on search button
+11:13:35.724 [main] INFO  this.getClass() - Clicked on desired product
+11:13:35.760 [main] INFO  this.getClass() - Success: You have added MacBook to your product comparison!
+×
+11:13:35.760 [main] INFO  this.getClass() - Confirmation msg1 is successful
+11:13:38.809 [main] INFO  this.getClass() - Product2 clicked
+11:13:38.843 [main] INFO  this.getClass() - Success: You have added MacBook Air to your product comparison!
+×
+11:13:40.857 [main] INFO  this.getClass() - Confirmation msg2 is successful
+11:13:43.342 [main] INFO  this.getClass() - ProductCompare clicked
+11:13:43.342 [main] INFO  this.getClass() - TC_008_ProductCompare ended
+14:49:27.289 [main] INFO  this.getClass() - Launched Chrome Browser
+14:49:27.313 [main] INFO  this.getClass() - Starting TC_009_WishList
+14:49:28.061 [main] INFO  this.getClass() - Home Page Displayed 
+14:49:38.252 [main] FATAL this.getClass() - Fatal error:Wish list is not diplayed
+14:55:49.107 [main] INFO  this.getClass() - Launched Chrome Browser
+14:55:49.132 [main] INFO  this.getClass() - Starting TC_009_WishList
+14:55:49.866 [main] INFO  this.getClass() - Home Page Displayed 
+14:56:00.027 [main] FATAL this.getClass() - Fatal error:Wish list is not diplayed
+15:10:32.804 [main] INFO  this.getClass() - Launched Chrome Browser
+15:10:32.829 [main] INFO  this.getClass() - Starting TC_009_WishList
+15:10:33.917 [main] INFO  this.getClass() - Home Page Displayed 
+15:10:44.152 [main] FATAL this.getClass() - Fatal error:Wish list is not diplayed
+15:14:05.594 [main] INFO  this.getClass() - Launched Chrome Browser
+15:14:05.617 [main] INFO  this.getClass() - Starting TC_009_WishList
+15:14:06.946 [main] INFO  this.getClass() - Home Page Displayed 
+15:14:07.138 [main] INFO  this.getClass() - Clicked Myaccount button
+15:14:09.519 [main] INFO  this.getClass() - Clicked Login button
+15:14:09.615 [main] INFO  this.getClass() - Provided Email 
+15:14:09.687 [main] INFO  this.getClass() - Provided Password 
+15:14:10.441 [main] INFO  this.getClass() - Clicked on Login
+15:14:12.516 [main] INFO  this.getClass() - Product Entered in searchbox
+15:14:15.129 [main] INFO  this.getClass() - Clicked on search button
+15:14:17.198 [main] INFO  this.getClass() - Clicked add wish to wish list
+15:14:17.262 [main] INFO  this.getClass() - Success: You have added iMac to your wish list!
+×
+15:14:17.262 [main] INFO  this.getClass() - Confirmation msg is successful
+15:14:17.765 [main] INFO  this.getClass() - Wishlist displayed
+15:14:17.765 [main] INFO  this.getClass() - TC_009_WishList ended
+14:25:22.640 [main] INFO  this.getClass() - Launched Chrome Browser
+14:25:22.663 [main] INFO  this.getClass() - Starting TC_010_ShoppingCart
+14:25:23.345 [main] INFO  this.getClass() - Home Page Displayed 
+14:25:23.548 [main] INFO  this.getClass() - Seaching  product
+14:25:24.608 [main] INFO  this.getClass() - Clicked search button
+14:25:34.641 [main] FATAL this.getClass() - Fatal error:Shopping cart page not displayed
+14:29:19.377 [main] INFO  this.getClass() - Launched Chrome Browser
+14:29:19.400 [main] INFO  this.getClass() - Starting TC_010_ShoppingCart
+14:29:19.997 [main] INFO  this.getClass() - Home Page Displayed 
+14:29:20.195 [main] INFO  this.getClass() - Seaching  product
+14:29:22.685 [main] INFO  this.getClass() - Clicked search button
+14:29:22.730 [main] INFO  this.getClass() - Product added to cart
+14:29:23.014 [main] ERROR this.getClass() - No confirmation msg
+14:40:35.558 [main] INFO  this.getClass() - Launched Chrome Browser
+14:40:35.584 [main] INFO  this.getClass() - Starting TC_010_ShoppingCart
+14:40:36.291 [main] INFO  this.getClass() - Home Page Displayed 
+14:40:36.502 [main] INFO  this.getClass() - Seaching  product
+14:40:38.939 [main] INFO  this.getClass() - Clicked search button
+14:40:39.000 [main] INFO  this.getClass() - Product added to cart
+14:40:39.305 [main] ERROR this.getClass() - No confirmation msg
+14:43:11.736 [main] INFO  this.getClass() - Launched Chrome Browser
+14:43:11.762 [main] INFO  this.getClass() - Starting TC_010_ShoppingCart
+14:43:12.424 [main] INFO  this.getClass() - Home Page Displayed 
+14:43:12.614 [main] INFO  this.getClass() - Seaching  product
+14:43:15.113 [main] INFO  this.getClass() - Clicked search button
+14:43:15.159 [main] INFO  this.getClass() - Product added to cart
+14:43:15.500 [main] ERROR this.getClass() - No confirmation msg: Success: You have added MacBook Air to your shopping cart!
+×
+14:46:10.872 [main] INFO  this.getClass() - Launched Chrome Browser
+14:46:10.897 [main] INFO  this.getClass() - Starting TC_010_ShoppingCart
+14:46:11.552 [main] INFO  this.getClass() - Home Page Displayed 
+14:46:11.747 [main] INFO  this.getClass() - Seaching  product
+14:46:14.154 [main] INFO  this.getClass() - Clicked search button
+14:46:14.201 [main] INFO  this.getClass() - Product added to cart
+14:46:14.482 [main] INFO  this.getClass() - Confirmation msg is successful
+14:46:14.897 [main] INFO  this.getClass() - Shoping cart page displayed
+14:46:14.898 [main] INFO  this.getClass() - TC_010_ShoppingCart finished
+12:57:51.104 [main] INFO  this.getClass() - Launched Chrome Browser
+12:57:51.130 [main] INFO  this.getClass() - Starting TC_011_AddressBook
+12:57:51.837 [main] INFO  this.getClass() - Home Page Displayed 
+12:57:52.357 [main] INFO  this.getClass() - My account button clicked
+12:57:52.850 [main] INFO  this.getClass() - Register button clicked
+12:57:52.880 [main] FATAL this.getClass() - Login Failed 
+13:02:05.927 [main] INFO  this.getClass() - Launched Chrome Browser
+13:02:05.950 [main] INFO  this.getClass() - Starting TC_011_AddressBook
+13:02:06.653 [main] INFO  this.getClass() - Home Page Displayed 
+13:02:07.160 [main] INFO  this.getClass() - My account button clicked
+13:02:07.605 [main] INFO  this.getClass() - Register button clicked
+13:02:08.216 [main] INFO  this.getClass() - Address book clicked
+13:02:08.306 [main] INFO  this.getClass() - Provided Email 
+13:02:08.377 [main] INFO  this.getClass() - Provided Password 
+13:02:11.165 [main] INFO  this.getClass() - Login clicked
+13:02:11.166 [main] INFO  this.getClass() -  Finished TC_011_AddressBook 
+11:46:30.060 [main] INFO  this.getClass() - Launched Chrome Browser
+11:46:30.084 [main] INFO  this.getClass() - Starting TC_012_Orderhistory
+11:46:30.729 [main] INFO  this.getClass() - Home Page Displayed
+11:46:31.230 [main] INFO  this.getClass() - My account clicked
+11:46:31.829 [main] INFO  this.getClass() - Order history clicked
+11:46:41.920 [main] INFO  this.getClass() - no such element: Unable to locate element: {"method":"xpath","selector":"//h1[normalize-space()='Order History']"}
+  (Session info: chrome=97.0.4692.71)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.1.1', revision: 'e8fcc2cecf'
+System info: host: 'DESKTOP-TUA62DI', ip: '10.0.0.31', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [6d0b627a6fe6974988347271de8521bc, findElement {using=xpath, value=//h1[normalize-space()='Order History']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.71, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\jay22\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:59941}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:59941/devtoo..., se:cdpVersion: 97.0.4692.71, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 6d0b627a6fe6974988347271de8521bc
+11:46:41.921 [main] INFO  this.getClass() - Order history page not displayed
+11:52:45.140 [main] INFO  this.getClass() - Launched Chrome Browser
+11:52:45.162 [main] INFO  this.getClass() - Starting TC_012_Orderhistory
+11:52:45.850 [main] INFO  this.getClass() - Home Page Displayed
+11:52:46.353 [main] INFO  this.getClass() - My account clicked
+11:52:46.939 [main] INFO  this.getClass() - Order history clicked
+11:52:46.985 [main] INFO  this.getClass() - Order History
+11:52:46.985 [main] INFO  this.getClass() - Order History page displayed
+20:40:20.740 [main] INFO  this.getClass() - Launched Chrome Browser
+20:40:20.764 [main] INFO  this.getClass() - Starting TC_013_RewardPoints
+20:40:21.496 [main] INFO  this.getClass() - Home Page Displayed 
+20:40:21.996 [main] INFO  this.getClass() - My account clicked
+20:40:22.480 [main] INFO  this.getClass() - Register clicked
+20:40:23.039 [main] INFO  this.getClass() - Reward points clicked
+20:40:23.130 [main] INFO  this.getClass() - Email id entered
+20:40:23.199 [main] INFO  this.getClass() - Password entered
+20:40:23.925 [main] INFO  this.getClass() - Login clicked
+20:40:33.962 [main] INFO  this.getClass() - Your Reward points not displayed
+20:44:07.892 [main] INFO  this.getClass() - Launched Chrome Browser
+20:44:07.916 [main] INFO  this.getClass() - Starting TC_013_RewardPoints
+20:44:08.681 [main] INFO  this.getClass() - Home Page Displayed 
+20:44:09.138 [main] INFO  this.getClass() - My account clicked
+20:44:09.623 [main] INFO  this.getClass() - Register clicked
+20:44:10.178 [main] INFO  this.getClass() - Reward points clicked
+20:44:10.268 [main] INFO  this.getClass() - Email id entered
+20:44:10.337 [main] INFO  this.getClass() - Password entered
+20:44:11.069 [main] INFO  this.getClass() - Login clicked
+20:44:11.100 [main] INFO  this.getClass() - Your Reward points displayed
+20:44:11.100 [main] INFO  this.getClass() - Finished TC_013_RewardPoints
+14:07:57.560 [main] INFO  this.getClass() - Launched Chrome Browser
+14:07:57.582 [main] INFO  this.getClass() - Starting TC_013_RewardPoints
+14:07:58.328 [main] INFO  this.getClass() - Home Page Displayed 
+14:07:58.761 [main] INFO  this.getClass() - My account clicked
+14:07:59.279 [main] INFO  this.getClass() - Register clicked
+14:07:59.961 [main] INFO  this.getClass() - Returns clicked
+14:08:00.058 [main] INFO  this.getClass() - Email id entered
+14:08:00.119 [main] INFO  this.getClass() - Password entered
+14:08:01.112 [main] INFO  this.getClass() - Login clicked
+14:08:01.143 [main] INFO  this.getClass() - Product Returns displayed
+14:08:01.143 [main] INFO  this.getClass() - Finished TC_014_Returns
+19:19:57.422 [main] INFO  this.getClass() - Launched Chrome Browser
+19:19:57.446 [main] INFO  this.getClass() - Starting TC_015_ContactUs
+19:19:58.087 [main] INFO  this.getClass() - Home Page Displayed 
+19:19:58.598 [main] INFO  this.getClass() - Clicked on phone icon
+19:19:58.697 [main] INFO  this.getClass() - Entered Your name
+19:19:58.792 [main] INFO  this.getClass() - Entered email id
+19:19:58.853 [main] INFO  this.getClass() - Enquiry enterd
+19:19:59.427 [main] INFO  this.getClass() - Enquiry submitted
+19:19:59.791 [main] INFO  this.getClass() - Clicked on contibue button
+19:19:59.826 [main] INFO  this.getClass() - Home Page not displayed: 
+19:25:53.564 [main] INFO  this.getClass() - Launched Chrome Browser
+19:25:53.588 [main] INFO  this.getClass() - Starting TC_015_ContactUs
+19:25:54.213 [main] INFO  this.getClass() - Home Page Displayed 
+19:25:54.739 [main] INFO  this.getClass() - Clicked on phone icon
+19:25:54.827 [main] INFO  this.getClass() - Entered Your name
+19:25:54.907 [main] INFO  this.getClass() - Entered email id
+19:25:54.965 [main] INFO  this.getClass() - Enquiry enterd
+19:25:55.528 [main] INFO  this.getClass() - Enquiry submitted
+19:25:55.909 [main] INFO  this.getClass() - Clicked on contibue button
+19:25:55.916 [main] INFO  this.getClass() - Home page displayed
+19:25:55.920 [main] INFO  this.getClass() - TC_015_ContactUs finished
